@@ -1,0 +1,7 @@
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.csproj.AssemblyReference.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.AssemblyInfoInputs.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.AssemblyInfo.cs
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.csproj.CoreCompileInputs.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\coba coba\TestMandiri\Services\UserServices\obj\Debug\net6.0\UserServices.MvcApplicationPartsAssemblyInfo.cache
